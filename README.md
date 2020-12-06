@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://wonderful-mclean-fd5faa.netlify.app/]()
+* Link to the website deployed on Netlify : cp/paste to url [https://wonderful-mclean-fd5faa.netlify.app/]()
